@@ -1,4 +1,3 @@
-import React from 'react'
 import ShopMen from '../../assets/shopMens.jpg'
 import ShopWomen from '../../assets/shopWomens.jpg'
 import './styles.scss'
